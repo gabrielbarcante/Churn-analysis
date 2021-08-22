@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é o projeto final do curso de Ciência de Dados na Prática da [VAI Academy](https://www.vai.academy/). Eu vou analisar três datasets para buscar insights sobre os dados, e vou criar um modelo de Machine Learning prever quais são os clientes mais propensos a darem churn.
+Este é o projeto final do curso de Ciência de Dados na Prática da [VAI Academy](https://www.vai.academy/). Eu vou analisar três datasets para buscar insights sobre os dados, e vou criar um modelo de Machine Learning para prever quais são os clientes mais propensos a darem churn.
 
 A VAI Pet, que é uma empresa fake criada para o projeto final, atua no mercado de animais de estimação há mais de 10 anos com
 unidades físicas distribuídas no Nordeste do Brasil e, mais recentemente, com vendas online para todo o país. Além da venda de produtos, também possui em suas lojas físicas a clínica veterinária e serviços estéticos.
